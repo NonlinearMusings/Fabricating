@@ -6,6 +6,12 @@
       "note": "",
       "type": "String",
       "value": "dev"
+    },
+    {
+      "name": "var00",
+      "note": "",
+      "type": "Integer",
+      "value": 0
     }
   ]
 }
